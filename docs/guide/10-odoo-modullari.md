@@ -2,7 +2,7 @@
 
 > **"Odoo — lego kabi. Kerakli bo'laklarni yig'ib, o'z biznesingizga moslashtirasiz."**
 
-[← Oldingi: Odoo Platformasi](09-odoo-platformasi.md) | [Bosh sahifa](../index.md) | [Keyingi: Scaling Jarayoni →](11-scaling-jarayoni.md)
+[← Oldingi: Odoo Platformasi](09-odoo-platformasi.md) | [Bosh sahifa](/) | [Keyingi: Scaling Jarayoni →](11-scaling-jarayoni.md)
 
 ---
 
@@ -454,4 +454,4 @@ Barcha moliyaviy operatsiyalarni boshqarish — daromad, xarajat, soliq, hisobot
 
 ---
 
-[← Oldingi: Odoo Platformasi](09-odoo-platformasi.md) | [Bosh sahifa](../index.md) | [Keyingi: Scaling Jarayoni →](11-scaling-jarayoni.md)
+[← Oldingi: Odoo Platformasi](09-odoo-platformasi.md) | [Bosh sahifa](/) | [Keyingi: Scaling Jarayoni →](11-scaling-jarayoni.md)

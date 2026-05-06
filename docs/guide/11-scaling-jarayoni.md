@@ -2,7 +2,7 @@
 
 > **"Kichik do'kondan xalqaro brendga — har bir bosqichda to'g'ri vosita kerak."**
 
-[← Oldingi: Odoo Modullari](10-odoo-modullari.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Joriy Etish →](12-erp-joriy-etish.md)
+[← Oldingi: Odoo Modullari](10-odoo-modullari.md) | [Bosh sahifa](/) | [Keyingi: ERP Joriy Etish →](12-erp-joriy-etish.md)
 
 ---
 
@@ -321,4 +321,4 @@ Bu darsda biz Anvarning biznesini **kichik do'kondan xalqaro bozorgacha** o'stir
 
 ---
 
-[← Oldingi: Odoo Modullari](10-odoo-modullari.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Joriy Etish →](12-erp-joriy-etish.md)
+[← Oldingi: Odoo Modullari](10-odoo-modullari.md) | [Bosh sahifa](/) | [Keyingi: ERP Joriy Etish →](12-erp-joriy-etish.md)

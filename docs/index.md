@@ -1,149 +1,222 @@
-# 📘 ERP Tizimlarini Biznes Nuqtai Nazaridan Tushunish
+---
+layout: home
 
-> **"Yaxshi dasturiy ta'minot — bu yaxshi biznes jarayonlarining aksidir."**
+hero:
+  name: "ERP Evolution"
+  text: "Biznes nuqtai nazaridan ERP tizimlarini tushunish"
+  tagline: "📓 Daftardan → 📊 Excelga → ☁️ Google Sheetsga → 🔧 CRM ga → 🏗️ ERP gacha — evolyutsiya yo'lini bosib o'ting"
+  actions:
+    - theme: brand
+      text: 🚀 Darslikni Boshlash
+      link: /guide/01-biznes-asoslari
+    - theme: alt
+      text: 🟣 Odoo (Tez kunda)
+      link: /odoo/
 
+features:
+  - icon: 📦
+    title: "I — Biznes Asoslari"
+    details: "Mijoz, mahsulot, buyurtma, daromad, xarajat, soliq — biznesning asosiy tushunchalari hayotiy misollar bilan"
+    link: /guide/01-biznes-asoslari
+  - icon: 🔄
+    title: "II — Evolyutsiya"
+    details: "Anvarning non do'koni — daftardan ERP gacha bo'lgan yo'l. Har bir bosqichda yangi muammo va yangi yechim"
+    link: /guide/03-kichik-dokon
+  - icon: 🏗️
+    title: "III — ERP Tizimi"
+    details: "ERP nima, qanday ishlaydi, qanday modullar bor — barcha jarayonlarni bitta tizimda birlashtirish"
+    link: /guide/07-erp-nima
+  - icon: 🟣
+    title: "IV — Odoo Platformasi"
+    details: "Dunyo bo'ylab 12M+ foydalanuvchiga ega ochiq kodli ERP — Odoo bilan amaliy tanishuv"
+    link: /guide/09-odoo-platformasi
+  - icon: 🚀
+    title: "V — Scaling"
+    details: "Kichik do'kondan xalqaro bozorgacha — biznes o'sishi bilan ERP ning roli qanday o'zgaradi"
+    link: /guide/11-scaling-jarayoni
+  - icon: 🛠️
+    title: "Amaliy Joriy Etish"
+    details: "ERP ni kompaniyaga qanday kiritish — bosqichlar, byudjet, xatolar va ROI hisob-kitob"
+    link: /guide/12-erp-joriy-etish
 ---
 
-## 🎯 Bu Darslik Kimga Mo'ljallangan?
+<div class="custom-section">
 
-Bu darslik **texnolog emas, biznesmen ko'zi bilan** ERP tizimlarini tushunishga qaratilgan. Agar siz:
+## 🗺️ Evolyutsiya Yo'li
 
-- 🏪 Kichik do'kon egasi bo'lsangiz va biznesingiz o'sib ketayotgan bo'lsa
-- 📊 Excel va Google Sheets bilan ishlayotgan bo'lsangiz, lekin chalkashlik boshlanayotgan bo'lsa
-- 🏭 O'rta yoki yirik korxona egasi bo'lsangiz va jarayonlarni tartibga solmoqchi bo'lsangiz
-- 💻 Dasturchi bo'lsangiz va ERP tizimlarini biznes tomondan tushunmoqchi bo'lsangiz
-- 🎓 Talaba bo'lsangiz va kelajakda ERP sohasida ishlashni xohlasangiz
+<div class="evolution-flow">
+  <div class="evolution-step">
+    <span class="icon">📓</span>
+    <strong>Daftar</strong>
+    <span style="font-size:0.75rem;color:var(--vp-c-text-3)">Xatolar, sekinlik</span>
+  </div>
+  <span class="evolution-arrow">→</span>
+  <div class="evolution-step">
+    <span class="icon">📊</span>
+    <strong>Excel</strong>
+    <span style="font-size:0.75rem;color:var(--vp-c-text-3)">Collaboration yo'q</span>
+  </div>
+  <span class="evolution-arrow">→</span>
+  <div class="evolution-step">
+    <span class="icon">☁️</span>
+    <strong>Google Sheets</strong>
+    <span style="font-size:0.75rem;color:var(--vp-c-text-3)">Murakkablik</span>
+  </div>
+  <span class="evolution-arrow">→</span>
+  <div class="evolution-step">
+    <span class="icon">🔧</span>
+    <strong>CRM + Toollar</strong>
+    <span style="font-size:0.75rem;color:var(--vp-c-text-3)">Integratsiya yo'q</span>
+  </div>
+  <span class="evolution-arrow">→</span>
+  <div class="evolution-step" style="border-color:var(--vp-c-brand);background:var(--vp-c-brand-soft)">
+    <span class="icon">🏗️</span>
+    <strong>ERP (Odoo)</strong>
+    <span style="font-size:0.75rem;color:var(--vp-c-brand)">Hamma narsa bir joyda!</span>
+  </div>
+</div>
 
-**— bu darslik aynan siz uchun.**
+<div class="stats-row">
+  <div class="stat-item">
+    <div class="number">13</div>
+    <div class="label">Darslar</div>
+  </div>
+  <div class="stat-item">
+    <div class="number">5</div>
+    <div class="label">Bo'limlar</div>
+  </div>
+  <div class="stat-item">
+    <div class="number">100+</div>
+    <div class="label">Hayotiy misollar</div>
+  </div>
+  <div class="stat-item">
+    <div class="number">1</div>
+    <div class="label">To'liq hikoya</div>
+  </div>
+</div>
 
----
+## 📚 Darslik Mundarijasi
 
-## 🗺️ O'rganish Yo'l Xaritasi
+<span class="section-badge active">✅ Tayyor</span> **I-Bo'lim: Biznes nuqtai nazaridan ERP**
 
-Bu darslik **evolyutsiya** tamoyiliga asoslangan. Biz kichik do'kondan boshlab, xalqaro bozor darajasigacha bo'lgan yo'lni bosqichma-bosqich bosib o'tamiz. Har bir bosqichda yangi muammo paydo bo'ladi va biz o'sha muammoni qanday hal qilishni ko'rsatamiz.
+<div class="toc-grid">
+  <a href="/guide/01-biznes-asoslari" class="toc-card">
+    <h4>📦 1. Biznes Asoslari</h4>
+    <p>Mijoz, mahsulot, buyurtma, daromad, xarajat, foyda, soliq, ta'minotchi</p>
+  </a>
+  <a href="/guide/02-sanoat-turlari" class="toc-card">
+    <h4>🏭 2. Sanoat Turlari</h4>
+    <p>Ishlab chiqarish, savdo, xizmat ko'rsatish va aralash modellar</p>
+  </a>
+  <a href="/guide/03-kichik-dokon" class="toc-card">
+    <h4>📓 3. Kichik Do'kon</h4>
+    <p>Anvarning hikoyasi boshlanadi — daftar bilan boshqarish</p>
+  </a>
+  <a href="/guide/04-excel-davri" class="toc-card">
+    <h4>📊 4. Excel Davri</h4>
+    <p>Formulalar, grafiklar — inqilob! Lekin yangi muammolar</p>
+  </a>
+  <a href="/guide/05-google-sheets" class="toc-card">
+    <h4>☁️ 5. Google Sheets</h4>
+    <p>Online hamkorlik, lekin murakkab jarayonlar uchun yetarli emas</p>
+  </a>
+  <a href="/guide/06-crm-va-toollar" class="toc-card">
+    <h4>🔧 6. CRM va Toollar</h4>
+    <p>Har bir muammo uchun alohida dastur — va integratsiya muammosi</p>
+  </a>
+  <a href="/guide/07-erp-nima" class="toc-card">
+    <h4>🏗️ 7. ERP Nima?</h4>
+    <p>ERP tushunchasi, tarixi, tamoyillari va biznesga ta'siri</p>
+  </a>
+  <a href="/guide/08-erp-modullari" class="toc-card">
+    <h4>🧩 8. ERP Modullari</h4>
+    <p>Sotish, xarid, ombor, buxgalteriya, HR — barcha modullar</p>
+  </a>
+  <a href="/guide/09-odoo-platformasi" class="toc-card">
+    <h4>🟣 9. Odoo Platformasi</h4>
+    <p>Nima uchun Odoo? Community vs Enterprise, arxitektura</p>
+  </a>
+  <a href="/guide/10-odoo-modullari" class="toc-card">
+    <h4>🟣 10. Odoo Modullari</h4>
+    <p>Odoo ning har bir moduli amaliy misollar bilan</p>
+  </a>
+  <a href="/guide/11-scaling-jarayoni" class="toc-card">
+    <h4>🚀 11. Scaling</h4>
+    <p>Kichik do'kondan xalqaro bozorgacha — 6 bosqichli yo'l</p>
+  </a>
+  <a href="/guide/12-erp-joriy-etish" class="toc-card">
+    <h4>🛠️ 12. ERP Joriy Etish</h4>
+    <p>Bosqichlar, byudjet, xatolar va ROI hisob-kitob</p>
+  </a>
+  <a href="/guide/13-xulosa" class="toc-card">
+    <h4>🏁 13. Xulosa</h4>
+    <p>Darslik xulosasi, foydali resurslar va keyingi qadamlar</p>
+  </a>
+</div>
 
-```
-📓 Daftar          →  Muammo: Xatolar, yo'qotishlar
-    ↓
-📊 Excel           →  Muammo: Collaboration yo'q, versiya nizolari
-    ↓
-☁️  Google Sheets   →  Muammo: Murakkab jarayonlar uchun yetarli emas
-    ↓
-🔧 CRM + Toollar   →  Muammo: Ma'lumotlar tarqoq, integratsiya yo'q
-    ↓
-🏗️  ERP Tizimi      →  Yechim: Hamma narsa bir joyda, avtomatlashtirilgan
-    ↓
-🌍 Odoo ERP        →  Eng yaxshi ochiq kodli ERP platformasi
-```
+<br>
 
----
+<span class="section-badge soon">🚧 Tez kunda</span> **II-Bo'lim: Odoo ga chuqur kirish**
 
-## 📚 Darslik Tarkibi
+<div class="toc-grid">
+  <a href="/odoo/" class="toc-card" style="opacity:0.65">
+    <h4>🔧 Odoo O'rnatish</h4>
+    <p>Docker, Ubuntu, Odoo.sh — barcha variantlar</p>
+  </a>
+  <a href="/odoo/" class="toc-card" style="opacity:0.65">
+    <h4>⚙️ Dastlabki Sozlash</h4>
+    <p>Kompaniya, valyuta, til, soliq, foydalanuvchilar</p>
+  </a>
+  <a href="/odoo/" class="toc-card" style="opacity:0.65">
+    <h4>🧩 Custom Modul</h4>
+    <p>Python, OWL, XML — o'z modulingizni yarating</p>
+  </a>
+</div>
 
-### 📦 I-Qism: Biznes Asoslari
-> *Har qanday ERP tizimini tushunish uchun avval biznesni tushunish kerak*
+## 🧑‍💼 Muallif Haqida
 
-| # | Mavzu | Fayl | Tavsif |
-|---|-------|------|--------|
-| 1 | [Biznes Asoslari](docs/01-biznes-asoslari.md) | `01-biznes-asoslari.md` | Mijoz, mahsulot, buyurtma, daromad, xarajat, foyda — biznesning asosiy tushunchalari |
-| 2 | [Sanoat Turlari va Biznes Modellari](docs/02-sanoat-turlari.md) | `02-sanoat-turlari.md` | Savdo, ishlab chiqarish, xizmat ko'rsatish — har bir sanoat turi va uning o'ziga xos jarayonlari |
+<div class="author-card">
+  <div style="font-size:3rem">👨‍💻</div>
+  <div class="author-info">
+    <h3>Ibrohim Xalilov</h3>
+    <p>📍 O'zbekiston</p>
+    <p>🔗 <a href="https://linkedin.com/in/ibrohim_xalilov" target="_blank">linkedin.com/in/ibrohim_xalilov</a></p>
+    <p>
+      <span class="badge">🤖 AI-Assisted</span>
+      Bu darslik <strong>Claude Opus 4.6</strong> sun'iy intellekti yordamida generatsiya qilingan va muallif tomonidan tahrirlangan.
+    </p>
+  </div>
+</div>
 
-### 🔄 II-Qism: Evolyutsiya — Daftardan ERP gacha
-> *Biznes o'sishi bilan boshqaruv usullari ham o'zgaradi*
+## 🤝 Xissa Qo'shing!
 
-| # | Mavzu | Fayl | Tavsif |
-|---|-------|------|--------|
-| 3 | [Kichik Do'kon va Daftar Davri](docs/03-kichik-dokon.md) | `03-kichik-dokon.md` | Anvarning non do'koni — hamma narsa daftarda, muammolar boshlanganda |
-| 4 | [Excel Davri](docs/04-excel-davri.md) | `04-excel-davri.md` | Kompyuterga o'tish, formulalar, lekin yangi muammolar |
-| 5 | [Google Sheets va Bulutli Hamkorlik](docs/05-google-sheets.md) | `05-google-sheets.md` | Online hamkorlik, lekin biznes murakkablashganda cheklovlar |
-| 6 | [CRM va Alohida Vositalar Davri](docs/06-crm-va-toollar.md) | `06-crm-va-toollar.md` | Har bir muammo uchun alohida dastur — va yangi muammo: integratsiya |
+<div class="contribute-box">
+  <h3>🎯 Bu loyiha ochiq — sizning yordamingiz kerak!</h3>
+  <p>Hozir darslikdagi diagrammalar va jarayonlar <strong>matn ko'rinishida (ASCII)</strong> tasvirlangan. Loyihani yanada yaxshilash uchun quyidagi yo'nalishlarda <strong>Pull Request</strong> yuborishingiz mumkin:</p>
+  <ul>
+    <li>🖼️ <strong>Haqiqiy rasmlar va diagrammalar</strong> — ASCII diagrammalar o'rniga professional rasmlar</li>
+    <li>📸 <strong>Odoo screenshotlari</strong> — haqiqiy Odoo interfeysi skrinshotlari</li>
+    <li>🐛 <strong>Xatolarni tuzatish</strong> — matn, grammatika yoki faktik xatolar</li>
+    <li>🌐 <strong>Tarjima</strong> — ingliz, rus yoki boshqa tillarga</li>
+    <li>📚 <strong>Yangi mavzular</strong> — qo'shimcha darslar yoki misollar</li>
+    <li>🎨 <strong>Dizayn yaxshilash</strong> — UI/UX takomillashtirish</li>
+  </ul>
+  <p style="margin-top:1rem">
+    📂 GitHub: <a href="https://github.com/aliendevuz/erp-evolution" target="_blank"><strong>github.com/aliendevuz/erp-evolution</strong></a><br>
+    💬 Savollar bo'lsa — <a href="https://github.com/aliendevuz/erp-evolution/issues" target="_blank">Issue</a> oching yoki <a href="https://linkedin.com/in/ibrohim_xalilov" target="_blank">LinkedIn</a> da yozing!
+  </p>
+</div>
 
-### 🏗️ III-Qism: ERP Tizimi — Katta Rasm
-> *Barcha jarayonlarni bitta tizimda birlashtirish*
+::: tip 💡 Bu darslikni qanday ishlatish kerak?
+Darsliklarni **tartib bilan o'qish** tavsiya etiladi — har bir bob oldingi bobga asoslanadi. Agar siz allaqachon biznes asoslarini bilsangiz, to'g'ridan-to'g'ri **[7-dars: ERP Nima?](/guide/07-erp-nima)** dan boshlashingiz mumkin.
+:::
 
-| # | Mavzu | Fayl | Tavsif |
-|---|-------|------|--------|
-| 7 | [ERP Nima va Nima Uchun Kerak?](docs/07-erp-nima.md) | `07-erp-nima.md` | ERP tushunchasi, tarixi, biznesga ta'siri |
-| 8 | [ERP Modullari](docs/08-erp-modullari.md) | `08-erp-modullari.md` | Sotish, xarid, ombor, buxgalteriya, HR — barcha modullar batafsil |
+<div style="height:32px"></div>
 
-### 🟣 IV-Qism: Odoo — Ochiq Kodli ERP Platformasi
-> *Odoo bilan amaliy tanishuv*
+## 📄 Litsenziya
 
-| # | Mavzu | Fayl | Tavsif |
-|---|-------|------|--------|
-| 9 | [Odoo Platformasi](docs/09-odoo-platformasi.md) | `09-odoo-platformasi.md` | Odoo nima, nima uchun Odoo, Community vs Enterprise |
-| 10 | [Odoo Modullari Batafsil](docs/10-odoo-modullari.md) | `10-odoo-modullari.md` | Odoo ning har bir moduli hayotiy misollar bilan |
+::: info 📄 Litsenziya
+Bu darslik **ochiq kontent** sifatida tarqatiladi. Manba ko'rsatgan holda boshqalar bilan bo'lishishingiz mumkin.
+:::
 
-### 🚀 V-Qism: Scaling va Amaliyot
-> *Kichik do'kondan xalqaro bozorgacha — ERP bilan o'sish*
-
-| # | Mavzu | Fayl | Tavsif |
-|---|-------|------|--------|
-| 11 | [Scaling Jarayoni](docs/11-scaling-jarayoni.md) | `11-scaling-jarayoni.md` | Biznesning o'sish bosqichlari va har birida ERP ning roli |
-| 12 | [ERP Joriy Etish](docs/12-erp-joriy-etish.md) | `12-erp-joriy-etish.md` | ERP ni kompaniyaga qanday kiritish — qadamlar, xatolar, maslahatlar |
-| 13 | [Xulosa va Keyingi Qadamlar](docs/13-xulosa.md) | `13-xulosa.md` | Darslik xulosasi, foydali resurslar, keyingi yo'nalishlar |
-
----
-
-## 🧭 Qanday O'qish Kerak?
-
-### Tavsiya etilgan ketma-ketlik:
-
-```
-1️⃣  Biznes asoslarini o'rganing          →  01, 02
-2️⃣  Evolyutsiyani kuzating               →  03, 04, 05, 06
-3️⃣  ERP tushunchasini o'zlashtiring       →  07, 08
-4️⃣  Odoo bilan tanishing                  →  09, 10
-5️⃣  Amaliy ko'nikmalar hosil qiling       →  11, 12, 13
-```
-
-### Tezkor yo'naltirgich:
-
-| Agar siz... | ...dan boshlang |
-|-------------|-----------------|
-| Biznesga yangi bo'lsangiz | [01 — Biznes Asoslari](docs/01-biznes-asoslari.md) |
-| Biznesni bilsangiz, ERP bilmasangiz | [07 — ERP Nima?](docs/07-erp-nima.md) |
-| ERP ni bilsangiz, Odoo bilmasangiz | [09 — Odoo Platformasi](docs/09-odoo-platformasi.md) |
-| Amaliy tatbiq etmoqchi bo'lsangiz | [12 — ERP Joriy Etish](docs/12-erp-joriy-etish.md) |
-
----
-
-## 🧑‍💼 Darslik Bo'ylab Sizni Kuzatib Boradigan Qahramonlar
-
-Bu darslikda biz **hayotiy qahramonlar** orqali o'rganamiz:
-
-| Qahramon | Kim? | Qayerda? |
-|----------|------|----------|
-| **Anvar** | Kichik non do'koni egasi, Samarqandda | Daftar → Excel → ERP gacha bo'lgan yo'lni bosib o'tadi |
-| **Nilufar** | Anvarning sherigi, buxgalter | Moliyaviy hisobotlar va soliq masalalarida yordam beradi |
-| **Jasur** | IT mutaxassisi | ERP tizimini joriy etishda texnik yordam beradi |
-| **Madina** | Savdo menejeri | Mijozlar bilan ishlash va CRM tajribasini ulashadi |
-
----
-
-## 📌 Muhim Eslatmalar
-
-> [!NOTE]
-> Bu darslik **nazariy + amaliy** formatda yozilgan. Har bir mavzuda:
-> - 📖 Nazariy tushuntirish
-> - 🏪 Hayotiy misol (Anvarning do'koni)
-> - ✅ Amaliy mashqlar
-> - 💡 Maslahatlar va ogohlantirishlar
-
-> [!IMPORTANT]
-> ERP — bu shunchaki dasturiy ta'minot emas. Bu **biznes jarayonlarini avtomatlashtiruvchi va optimallashtiuvchi vosita**. ERP ni tushunish uchun avval biznesni tushunish kerak. Shu sababli darslik biznes asoslaridan boshlanadi.
-
-> [!TIP]
-> Har bir bobni o'qib bo'lgach, oxiridagi **"Tekshirish Savollari"** ga javob bering. Bu sizning tushunganingizni mustahkamlashga yordam beradi.
-
----
-
-## 🏁 Tayyor bo'lsangiz — Boshlaylik!
-
-👉 **[1-Dars: Biznes Asoslari →](docs/01-biznes-asoslari.md)**
-
----
-
-<p align="center">
-  <em>© 2026 — ERP Darslik | Biznes nuqtai nazaridan yozilgan</em>
-</p>
+</div>

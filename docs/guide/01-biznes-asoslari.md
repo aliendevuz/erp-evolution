@@ -2,7 +2,7 @@
 
 > **"Biznesni tushunmasdan ERP ni tushunib bo'lmaydi."**
 
-[← Bosh sahifa](../index.md) | [Keyingi: Sanoat Turlari →](02-sanoat-turlari.md)
+[← Bosh sahifa](/) | [Keyingi: Sanoat Turlari →](02-sanoat-turlari.md)
 
 ---
 
@@ -413,4 +413,4 @@ Barcha yuqoridagi tushunchalar alohida emas — ular **bir-biriga bog'liq zanjir
 
 ---
 
-[← Bosh sahifa](../index.md) | [Keyingi: Sanoat Turlari →](02-sanoat-turlari.md)
+[← Bosh sahifa](/) | [Keyingi: Sanoat Turlari →](02-sanoat-turlari.md)

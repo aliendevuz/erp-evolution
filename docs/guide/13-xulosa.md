@@ -2,7 +2,7 @@
 
 > **"ERP — bu manzil emas, bu sayohat. Sayohat hech qachon tugamaydi."**
 
-[← Oldingi: ERP Joriy Etish](12-erp-joriy-etish.md) | [Bosh sahifa](../index.md)
+[← Oldingi: ERP Joriy Etish](12-erp-joriy-etish.md) | [Bosh sahifa](/)
 
 ---
 
@@ -299,4 +299,4 @@ O'zingizni tekshiring — quyidagi savollarga javob bera olasizmi?
 
 ---
 
-[← Oldingi: ERP Joriy Etish](12-erp-joriy-etish.md) | [Bosh sahifa](../index.md)
+[← Oldingi: ERP Joriy Etish](12-erp-joriy-etish.md) | [Bosh sahifa](/)

@@ -2,7 +2,7 @@
 
 > **"ERP o'rnatish — bu dastur o'rnatish emas, bu biznesni qayta tashkil etish."**
 
-[← Oldingi: Scaling Jarayoni](11-scaling-jarayoni.md) | [Bosh sahifa](../index.md) | [Keyingi: Xulosa →](13-xulosa.md)
+[← Oldingi: Scaling Jarayoni](11-scaling-jarayoni.md) | [Bosh sahifa](/) | [Keyingi: Xulosa →](13-xulosa.md)
 
 ---
 
@@ -404,4 +404,4 @@ Biznesning **hozirgi holatini** chuqur o'rganish:
 
 ---
 
-[← Oldingi: Scaling Jarayoni](11-scaling-jarayoni.md) | [Bosh sahifa](../index.md) | [Keyingi: Xulosa →](13-xulosa.md)
+[← Oldingi: Scaling Jarayoni](11-scaling-jarayoni.md) | [Bosh sahifa](/) | [Keyingi: Xulosa →](13-xulosa.md)

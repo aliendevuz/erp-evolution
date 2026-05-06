@@ -2,7 +2,7 @@
 
 > **"ERP — bu dastur emas, bu biznesni boshqarish falsafasi."**
 
-[← Oldingi: CRM va Toollar](06-crm-va-toollar.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Modullari →](08-erp-modullari.md)
+[← Oldingi: CRM va Toollar](06-crm-va-toollar.md) | [Bosh sahifa](/) | [Keyingi: ERP Modullari →](08-erp-modullari.md)
 
 ---
 
@@ -356,4 +356,4 @@ Nihoyat biz **ERP** ga yetib keldik. Oldingi 6 ta darsda biz biznes asoslarini o
 
 ---
 
-[← Oldingi: CRM va Toollar](06-crm-va-toollar.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Modullari →](08-erp-modullari.md)
+[← Oldingi: CRM va Toollar](06-crm-va-toollar.md) | [Bosh sahifa](/) | [Keyingi: ERP Modullari →](08-erp-modullari.md)

@@ -2,7 +2,7 @@
 
 > **"Excel — dunyodagi eng ko'p ishlatiladigan 'dasturlash tili'."**
 
-[← Oldingi: Kichik Do'kon](03-kichik-dokon.md) | [Bosh sahifa](../index.md) | [Keyingi: Google Sheets →](05-google-sheets.md)
+[← Oldingi: Kichik Do'kon](03-kichik-dokon.md) | [Bosh sahifa](/) | [Keyingi: Google Sheets →](05-google-sheets.md)
 
 ---
 
@@ -389,4 +389,4 @@ Excel **yetarli emas**, agar:
 
 ---
 
-[← Oldingi: Kichik Do'kon](03-kichik-dokon.md) | [Bosh sahifa](../index.md) | [Keyingi: Google Sheets →](05-google-sheets.md)
+[← Oldingi: Kichik Do'kon](03-kichik-dokon.md) | [Bosh sahifa](/) | [Keyingi: Google Sheets →](05-google-sheets.md)

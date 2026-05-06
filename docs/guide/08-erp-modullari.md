@@ -2,7 +2,7 @@
 
 > **"ERP — bu lego konstruktori. Kerakli modullarni yig'ib, o'z tizimingizni qurasiz."**
 
-[← Oldingi: ERP Nima?](07-erp-nima.md) | [Bosh sahifa](../index.md) | [Keyingi: Odoo Platformasi →](09-odoo-platformasi.md)
+[← Oldingi: ERP Nima?](07-erp-nima.md) | [Bosh sahifa](/) | [Keyingi: Odoo Platformasi →](09-odoo-platformasi.md)
 
 ---
 
@@ -422,4 +422,4 @@ Barcha modullardan ma'lumot yig'ib, **vizual hisobotlar** tayyorlaydi.
 
 ---
 
-[← Oldingi: ERP Nima?](07-erp-nima.md) | [Bosh sahifa](../index.md) | [Keyingi: Odoo Platformasi →](09-odoo-platformasi.md)
+[← Oldingi: ERP Nima?](07-erp-nima.md) | [Bosh sahifa](/) | [Keyingi: Odoo Platformasi →](09-odoo-platformasi.md)

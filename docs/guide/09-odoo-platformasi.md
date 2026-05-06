@@ -2,7 +2,7 @@
 
 > **"Odoo — bu faqat ERP emas, bu butun biznes ekotizimi."**
 
-[← Oldingi: ERP Modullari](08-erp-modullari.md) | [Bosh sahifa](../index.md) | [Keyingi: Odoo Modullari →](10-odoo-modullari.md)
+[← Oldingi: ERP Modullari](08-erp-modullari.md) | [Bosh sahifa](/) | [Keyingi: Odoo Modullari →](10-odoo-modullari.md)
 
 ---
 
@@ -311,4 +311,4 @@ Odoo **ikki versiyada** mavjud:
 
 ---
 
-[← Oldingi: ERP Modullari](08-erp-modullari.md) | [Bosh sahifa](../index.md) | [Keyingi: Odoo Modullari →](10-odoo-modullari.md)
+[← Oldingi: ERP Modullari](08-erp-modullari.md) | [Bosh sahifa](/) | [Keyingi: Odoo Modullari →](10-odoo-modullari.md)

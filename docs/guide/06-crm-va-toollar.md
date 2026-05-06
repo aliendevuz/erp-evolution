@@ -2,7 +2,7 @@
 
 > **"Har bir muammo uchun alohida dastur — bu yechim emas, bu yangi muammo."**
 
-[← Oldingi: Google Sheets](05-google-sheets.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Nima? →](07-erp-nima.md)
+[← Oldingi: Google Sheets](05-google-sheets.md) | [Bosh sahifa](/) | [Keyingi: ERP Nima? →](07-erp-nima.md)
 
 ---
 
@@ -413,4 +413,4 @@ Anvar yana Toshkentdagi biznes forumiga bordi. Bu safar **ERP** haqida eshitdi:
 
 ---
 
-[← Oldingi: Google Sheets](05-google-sheets.md) | [Bosh sahifa](../index.md) | [Keyingi: ERP Nima? →](07-erp-nima.md)
+[← Oldingi: Google Sheets](05-google-sheets.md) | [Bosh sahifa](/) | [Keyingi: ERP Nima? →](07-erp-nima.md)

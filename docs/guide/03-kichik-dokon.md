@@ -2,7 +2,7 @@
 
 > **"Har bir katta kompaniya bir vaqtlar kichik do'kon bo'lgan."**
 
-[← Oldingi: Sanoat Turlari](02-sanoat-turlari.md) | [Bosh sahifa](../index.md) | [Keyingi: Excel Davri →](04-excel-davri.md)
+[← Oldingi: Sanoat Turlari](02-sanoat-turlari.md) | [Bosh sahifa](/) | [Keyingi: Excel Davri →](04-excel-davri.md)
 
 ---
 
@@ -318,4 +318,4 @@ Agar quyidagilardan **3 tasi** sizga tegishli bo'lsa — daftardan o'tish vaqti 
 
 ---
 
-[← Oldingi: Sanoat Turlari](02-sanoat-turlari.md) | [Bosh sahifa](../index.md) | [Keyingi: Excel Davri →](04-excel-davri.md)
+[← Oldingi: Sanoat Turlari](02-sanoat-turlari.md) | [Bosh sahifa](/) | [Keyingi: Excel Davri →](04-excel-davri.md)

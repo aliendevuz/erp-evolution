@@ -2,7 +2,7 @@
 
 > **"Bulut texnologiyasi — faylni emas, jarayonni ulashish demak."**
 
-[← Oldingi: Excel Davri](04-excel-davri.md) | [Bosh sahifa](../index.md) | [Keyingi: CRM va Toollar →](06-crm-va-toollar.md)
+[← Oldingi: Excel Davri](04-excel-davri.md) | [Bosh sahifa](/) | [Keyingi: CRM va Toollar →](06-crm-va-toollar.md)
 
 ---
 
@@ -375,4 +375,4 @@ Anvar Toshkentda biznes forumiga bordi. U yerda boshqa tadbirkorlar bilan gaplas
 
 ---
 
-[← Oldingi: Excel Davri](04-excel-davri.md) | [Bosh sahifa](../index.md) | [Keyingi: CRM va Toollar →](06-crm-va-toollar.md)
+[← Oldingi: Excel Davri](04-excel-davri.md) | [Bosh sahifa](/) | [Keyingi: CRM va Toollar →](06-crm-va-toollar.md)

@@ -2,7 +2,7 @@
 
 > **"Har bir sanoat o'ziga xos jarayonlarga ega. ERP tizimi shu jarayonlarga moslashishi kerak."**
 
-[← Oldingi: Biznes Asoslari](01-biznes-asoslari.md) | [Bosh sahifa](../index.md) | [Keyingi: Kichik Do'kon →](03-kichik-dokon.md)
+[← Oldingi: Biznes Asoslari](01-biznes-asoslari.md) | [Bosh sahifa](/) | [Keyingi: Kichik Do'kon →](03-kichik-dokon.md)
 
 ---
 
@@ -329,4 +329,4 @@ Shu sababli Anvarga **ishlab chiqarish + savdo + yetkazish** modullariga ega ERP
 
 ---
 
-[← Oldingi: Biznes Asoslari](01-biznes-asoslari.md) | [Bosh sahifa](../index.md) | [Keyingi: Kichik Do'kon →](03-kichik-dokon.md)
+[← Oldingi: Biznes Asoslari](01-biznes-asoslari.md) | [Bosh sahifa](/) | [Keyingi: Kichik Do'kon →](03-kichik-dokon.md)
