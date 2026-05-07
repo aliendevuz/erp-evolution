@@ -22,7 +22,7 @@ export default defineConfig({
       { text: 'Odoo', link: '/odoo/' },
       {
         text: 'Muallif',
-        link: 'https://linkedin.com/in/ibrohim_xalilov'
+        link: 'https://linkedin.com/in/ibrohim-xalilov'
       }
     ],
 
@@ -84,7 +84,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aliendevuz/erp-evolution' },
-      { icon: 'linkedin', link: 'https://linkedin.com/in/ibrohim_xalilov' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/ibrohim-xalilov' },
     ],
 
     footer: {

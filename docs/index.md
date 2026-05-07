@@ -180,7 +180,7 @@ features:
   <div class="author-info">
     <h3>Ibrohim Xalilov</h3>
     <p>📍 O'zbekiston</p>
-    <p>🔗 <a href="https://linkedin.com/in/ibrohim_xalilov" target="_blank">linkedin.com/in/ibrohim_xalilov</a></p>
+    <p>🔗 <a href="https://linkedin.com/in/ibrohim-xalilov" target="_blank">linkedin.com/in/ibrohim-xalilov</a></p>
     <p>
       <span class="badge">🤖 AI-Assisted</span>
       Bu darslik <strong>Claude Opus 4.6</strong> sun'iy intellekti yordamida generatsiya qilingan va muallif tomonidan tahrirlangan.
@@ -203,7 +203,7 @@ features:
   </ul>
   <p style="margin-top:1rem">
     📂 GitHub: <a href="https://github.com/aliendevuz/erp-evolution" target="_blank"><strong>github.com/aliendevuz/erp-evolution</strong></a><br>
-    💬 Savollar bo'lsa — <a href="https://github.com/aliendevuz/erp-evolution/issues" target="_blank">Issue</a> oching yoki <a href="https://linkedin.com/in/ibrohim_xalilov" target="_blank">LinkedIn</a> da yozing!
+    💬 Savollar bo'lsa — <a href="https://github.com/aliendevuz/erp-evolution/issues" target="_blank">Issue</a> oching yoki <a href="https://linkedin.com/in/ibrohim-xalilov" target="_blank">LinkedIn</a> da yozing!
   </p>
 </div>
 
